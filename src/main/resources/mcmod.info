@@ -1,7 +1,7 @@
 [
 {
   "modid": "fastbreaker",
-  "name": "Fast Breeaker",
+  "name": "Fast Breaker",
   "description": "Reduces hardness of most resource blocks to 0.25",
   "version": "${version}",
   "mcversion": "${mcversion}",
