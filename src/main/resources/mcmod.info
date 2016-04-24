@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fastbreaker",
+  "name": "Fast Breeaker",
+  "description": "Reduces hardness of most resource blocks to 0.25",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for the example project I based this on",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
